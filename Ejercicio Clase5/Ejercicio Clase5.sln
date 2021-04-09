@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio Clase5", "Ejercicio Clase5\Ejercicio Clase5.csproj", "{3156AAB3-0195-4BB2-B2AF-2B9F72905243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almacen", "Almacen\Almacen.csproj", "{43717191-09E9-4AFF-9F16-721B404509DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3156AAB3-0195-4BB2-B2AF-2B9F72905243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3156AAB3-0195-4BB2-B2AF-2B9F72905243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3156AAB3-0195-4BB2-B2AF-2B9F72905243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3156AAB3-0195-4BB2-B2AF-2B9F72905243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43717191-09E9-4AFF-9F16-721B404509DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43717191-09E9-4AFF-9F16-721B404509DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43717191-09E9-4AFF-9F16-721B404509DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43717191-09E9-4AFF-9F16-721B404509DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90E94E0C-CA58-49A0-8DEB-C6D7CD6EA258}
+	EndGlobalSection
+EndGlobal

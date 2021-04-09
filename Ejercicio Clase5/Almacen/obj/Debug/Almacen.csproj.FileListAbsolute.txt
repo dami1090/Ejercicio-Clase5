@@ -1,0 +1,6 @@
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Almacen\bin\Debug\Almacen.dll
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Almacen\bin\Debug\Almacen.pdb
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Almacen\obj\Debug\Almacen.csprojAssemblyReference.cache
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Almacen\obj\Debug\Almacen.dll
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Almacen\obj\Debug\Almacen.pdb

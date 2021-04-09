@@ -1,0 +1,10 @@
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Ejercicio Clase5\bin\Debug\Ejercicio Clase5.exe.config
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Ejercicio Clase5\bin\Debug\Ejercicio Clase5.exe
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Ejercicio Clase5\bin\Debug\Ejercicio Clase5.pdb
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Ejercicio Clase5\bin\Debug\Almacen.dll
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Ejercicio Clase5\bin\Debug\Almacen.pdb
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Ejercicio Clase5\obj\Debug\Ejercicio Clase5.csprojAssemblyReference.cache
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Ejercicio Clase5\obj\Debug\Ejercicio Clase5.csproj.CoreCompileInputs.cache
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Ejercicio Clase5\obj\Debug\Ejercicio Clase5.csproj.CopyComplete
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Ejercicio Clase5\obj\Debug\Ejercicio Clase5.exe
+D:\UTN\LAB II\Ejercicio Clase5\Ejercicio Clase5\Ejercicio Clase5\obj\Debug\Ejercicio Clase5.pdb
