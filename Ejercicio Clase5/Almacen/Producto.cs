@@ -60,7 +60,6 @@ namespace Almacen
                     result = true;
                 }
             }
-
             return result;
         }
         public static bool operator !=(Producto p1, string s)
